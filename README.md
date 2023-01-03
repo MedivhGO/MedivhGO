@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MedivhGO
 - 👀 I’m interested in Database System
-- 🌱 I’m currently learning OS, Arch, DB
+- 🌱 I’m currently learning DB OS Arch
 - 📫 How to reach me lijingqi93@foxmail.com
 
 <!---
