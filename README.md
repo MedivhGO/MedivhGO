@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MedivhGO
-- 👀 I’m interested in Database
+- 👀 I’m interested in Database System
 - 🌱 I’m currently learning OS, Arch, DB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me lijingqi93@foxmail.com
 
 <!---
 MedivhGO/MedivhGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
