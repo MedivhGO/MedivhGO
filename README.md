@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in Database System
 - 🌱 I’m currently learning DB OS ARCH CPP
-- 📫 How to reach me lijingqi93@foxmail.com
+- 📫 How to reach me lijingqi93@outlook.com
