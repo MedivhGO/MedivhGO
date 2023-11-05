@@ -1,4 +1,3 @@
 - 👀 I’m interested in Database System
 - 🌱 I’m currently working on OLAP System.
-- ✍ I'm currently learning postgreSQL internal.
 - 📫 How to reach me: lijingqi93@outlook.com
